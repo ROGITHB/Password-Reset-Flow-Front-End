@@ -12,8 +12,6 @@ This project is a frontend web application built with React and styled using Boo
 - **React -** JavaScript library for building user interfaces.
 - **Tailwind css -** CSS framework for responsive design.
 - **Axios -** HTTP client for API requests.
-- 
-- 
 
 ## Available Pages and Components
 1. **Login Page**
